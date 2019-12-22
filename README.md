@@ -1,2 +1,2 @@
 # Price-Tracker
-Price-Tracker is a python app which notifies you by sending an email, when the price of your product fells down.
+Price-Tracker notifies you about the prices of your desired product being fell down by sending an email. I have used web srcaping with the help of python programming.
